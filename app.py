@@ -12,6 +12,7 @@ transcript = transcriber.transcribe("https://assembly.ai/news.mp4")
 
 
 
+
 print(transcript.text) 
 
 
